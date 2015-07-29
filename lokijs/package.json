@@ -1,0 +1,16 @@
+{
+  "name": "lokijslab",
+  "version": "1.0.0",
+  "description": "lab",
+  "main": "app.js",
+  "dependencies": {
+    "lokijs": "^1.3.7",
+    "q": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
